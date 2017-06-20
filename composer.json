@@ -10,11 +10,11 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4"
+        "php": ">=5.6.4",
+         "cartalyst/sentry": "2.0.*@dev"
     },
     "autoload": {
         "psr-4": {
-            "App\\": "app/",
             "Jatin\\Sample\\": "packages/jatin/sample/src"
         }
     }
