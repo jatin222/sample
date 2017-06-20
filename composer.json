@@ -9,7 +9,6 @@
             "email": "jatinraikwar2@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.4"
     },
