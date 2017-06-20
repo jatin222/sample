@@ -12,5 +12,11 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Jatin\\Sample\\": "packages/jatin/sample/src"
+        }
     }
 }
