@@ -1,0 +1,14 @@
+{
+    "name": "jatin/sample",
+    "description": "This is my first laravel sample package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jatin Raikwar",
+            "email": "jatinraikwar2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
